@@ -5,6 +5,10 @@
 
 The Crop Recommendation System is a machine learning project designed to predict the most suitable crop to cultivate based on soil and environmental conditions. The system uses various features such as nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall to provide accurate recommendations.
 
+## project Link
+- see deployed project [https://crop-recommendor.onrender.com]
+- it takes 30 sec to load website beacuse it is free Service of Render
+
 ## Features
 
 - Predict the best crop for given soil and environmental conditions
