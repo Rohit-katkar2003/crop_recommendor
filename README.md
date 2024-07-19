@@ -14,14 +14,23 @@ The Crop Recommendation System is a machine learning project designed to predict
 ## Project Structure
 
 ├── .gitignore
+
 ├── .idea/
+
 ├── Crop_recommendation.csv
+
 ├── Images/
+
 ├── app.sav
+
 ├── crop.py
+
 ├── crop_recommendation.ipynb
+
 ├── requirements.txt
+
 ├── venv/
+
 └── README.md
 
 
